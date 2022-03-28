@@ -1,8 +1,8 @@
 # My_webApp_1
 A small web app to manage the expenses and receipts of a restaurant
 
-The app have been created using the php framework codeIgniter. The DB file is the DB folder.
-You will have to create a nemw Data base to import the app DB make the DB connexion to test the app
+The app have been created using the php framework codeIgniter. The DB file is in the DB folder.
+You will have to create a new Data base to import the app DB and make the DB connexion to use the app
 
 The user name is : admin@resto.com
 The password is : 12345
